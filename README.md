@@ -84,9 +84,9 @@ npm run build
 npm run start
 ```
 
-## 📸 Demo & Credentials
+## 🔗 Deployment
 
-🔗 **Live URL**: [https://ecommerce-store-demo.vercel.app](https://ecommerce-store.vercel.app)
+> [Live!](https://ecommerce-store-g6r0.onrender.com)
 
 👤 **Admin Login**  
 Email: `admin@example.com`  
